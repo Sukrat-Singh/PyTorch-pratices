@@ -1,0 +1,82 @@
+# ==============================
+# 🔧 Python & PyTorch
+# ==============================
+__pycache__/
+*.py[cod]
+*.so
+*.pth  # model checkpoints (can be huge)
+*.onnx
+*.tflite
+
+# ==============================
+# 🧪 Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# ==============================
+# 🧠 Data & Models
+# ==============================
+data/
+datasets/
+inputs/
+outputs/
+checkpoints/
+models/
+runs/           # TensorBoard logs
+results/
+logs/
+vector_cache/
+.vector_cache/
+
+# Keep specific data folder for your code
+!codes/show_and_tell/data/
+
+# ==============================
+# 💻 VS Code & IDE Files
+# ==============================
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# ==============================
+# 💾 System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# 🧰 Environments & Dependencies
+# ==============================
+.env
+.venv/
+env/
+venv/
+ENV/
+pip-wheel-metadata/
+__pypackages__/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.cache/
+*.log
+
+# ==============================
+# 📦 Packaging & Builds
+# ==============================
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ==============================
+# 🧩 Miscellaneous
+# ==============================
+*.swp
+*.tmp
+*.bak
+*.orig
