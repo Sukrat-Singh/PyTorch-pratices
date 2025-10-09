@@ -2,7 +2,7 @@ import torch
 from torch import nn
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
-from net import Net  # Make sure net.py is in the same folder
+from net import Net 
 
 
 def evaluate(net, loader, device):
