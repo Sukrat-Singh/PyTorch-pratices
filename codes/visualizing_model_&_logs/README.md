@@ -7,11 +7,11 @@ Tensorflow and Keras have their own powerful API to visualize the model or logs 
 
 #### torchsummary
 
-![Torchsummary](codes\visualizing_model_&_logs\images\torchsummary-ss.png)
+![Torchsummary](./images/torchsummary-ss.png)
 
 #### Visdom
 
-![Visdom](codes\visualizing_model_&_logs\images\server-ss.png)
+![Visdom](./images/server-ss.png)
 
 -------------------------------------------------
 
