@@ -7,8 +7,9 @@ This repository contains a collection of beginner-friendly PyTorch exercises to 
 
 ## Contents
 #### 1. Basics
-- [MNIST Classification](codes/mnist)
-- [Visualizing Model and Logs](codes/visualizing_model_&_logs)
+- [MNIST Classification](mnist)
+- [Visualizing Model and Logs](visualizing_model_&_logs)
+- [Simple LSTM](simple-LSTM)
 
 ## Installation
 Make sure you have Python 3.5 or newer version. Installing the requirements are as follow:
